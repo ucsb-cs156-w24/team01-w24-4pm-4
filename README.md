@@ -2,8 +2,6 @@
 
 Lab instructions: <https://ucsb-cs156.github.io/w24/lab/team01.html>
 
-* TODO: Update the following table, then delete this line that says "TODO".
-
 ```
 |   Name          | GitHub Id     |  Service                    | Controller                |
 |-----------------|---------------|-----------------------------|---------------------------|
@@ -15,19 +13,14 @@ Lab instructions: <https://ucsb-cs156.github.io/w24/lab/team01.html>
 |Hao Yi           |hyi96          | `JokeQueryService`          | `JokeQueryController`     |
 ```
 
-* TODO: Correct the links to repo below,
-  then delete this TODO.  Replace it with
-  a link to your repo, e.g.
-  https://github.com/ucsb-cs156-w24/w24-5pm-2-team01
-
-Repo: https://ucsb-cs156-w24/STARTER-team01
+Repo: (https://github.com/ucsb-cs156-w24/team01-w24-4pm-4.git)
 
 * TODO: Correct the links to app on Dokku below,
   then delete this TODO.  Replace it with
   a link to your running app on Dokku, e.g.
   https://team01.dokku-00.cs.ucsb.edu
 
-On Heroku: https://team01.dokku-00.cs.ucsb.edu
+On Heroku: https://team01.dokku-04.cs.ucsb.edu
 
 ## About this repo
 
