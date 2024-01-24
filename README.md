@@ -1,4 +1,4 @@
-# STARTER-team01
+# W24-4PM-4-Team01
 
 Lab instructions: <https://ucsb-cs156.github.io/w24/lab/team01.html>
 
@@ -7,18 +7,13 @@ Lab instructions: <https://ucsb-cs156.github.io/w24/lab/team01.html>
 ```
 |   Name    | GitHub Id |  Service                    | Controller                |
 |-----------|-----------|-----------------------------|---------------------------|
-|           |           | `LocationQueryService`      | `LocationController`      |
-|           |           | `PublicHolidayQueryService` | `PublicHolidayController` |
-|           |           | `TidesQueryService`         | `TidesController`         |
-|           |           | `UniversityQueryService`    | `UniversityController`    |
-|           |           | `ZipCodeQueryService`       | `ZipCodeController`       |
+|Rohan Morangoly|rmarangoly| `LocationQueryService`      | `LocationController`      |
+|Alexander Nguyen|anguyen412| `PublicHolidayQueryService` | `PublicHolidayController` |
+|Hongye Liang|hongye-liang| `TidesQueryService`         | `TidesController`         |
+|Justin Zhang|JustinZhang809| `UniversityQueryService`    | `UniversityController`    |
+|Kole Kikuta|ktkikuta| `ZipCodeQueryService`       | `ZipCodeController`       |
+|Hao Yi |hyi96| `JokeQueryService| JokeQueryController|
 ```
-
-
-* TODO: Change the title of this README
-  in the text `# STARTER-team01` above
-  to match the name of your repo, i. e., `w24-5pm-2-team01`, then delete
-  this TODO item.
 
 * TODO: Correct the links to repo below,
   then delete this TODO.  Replace it with
