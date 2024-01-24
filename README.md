@@ -20,7 +20,7 @@ Repo: (https://github.com/ucsb-cs156-w24/team01-w24-4pm-4.git)
   a link to your running app on Dokku, e.g.
   https://team01.dokku-00.cs.ucsb.edu
 
-On Heroku: https://team01.dokku-04.cs.ucsb.edu
+On Heroku: http://team01.dokku-04.cs.ucsb.edu
 
 ## About this repo
 
