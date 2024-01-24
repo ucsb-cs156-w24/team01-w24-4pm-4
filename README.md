@@ -5,14 +5,14 @@ Lab instructions: <https://ucsb-cs156.github.io/w24/lab/team01.html>
 * TODO: Update the following table, then delete this line that says "TODO".
 
 ```
-|   Name    | GitHub Id |  Service                    | Controller                |
-|-----------|-----------|-----------------------------|---------------------------|
-|Rohan Morangoly|rmarangoly| `LocationQueryService`      | `LocationController`      |
-|Alexander Nguyen|anguyen412| `PublicHolidayQueryService` | `PublicHolidayController` |
-|Hongye Liang|hongye-liang| `TidesQueryService`         | `TidesController`         |
-|Justin Zhang|JustinZhang809| `UniversityQueryService`    | `UniversityController`    |
-|Kole Kikuta|ktkikuta| `ZipCodeQueryService`       | `ZipCodeController`       |
-|Hao Yi |hyi96| `JokeQueryService| JokeQueryController|
+|   Name          | GitHub Id     |  Service                    | Controller                |
+|-----------------|---------------|-----------------------------|---------------------------|
+|Rohan Morangoly  |rmarangoly     | `LocationQueryService`      | `LocationController`      |
+|Alexander Nguyen |anguyen412     | `PublicHolidayQueryService` | `PublicHolidayController` |
+|Hongye Liang     |hongye-liang   | `TidesQueryService`         | `TidesController`         |
+|Justin Zhang     |JustinZhang809 | `UniversityQueryService`    | `UniversityController`    |
+|Kole Kikuta      |ktkikuta       | `ZipCodeQueryService`       | `ZipCodeController`       |
+|Hao Yi           |hyi96          | `JokeQueryService`          | `JokeQueryController`     |
 ```
 
 * TODO: Correct the links to repo below,
