@@ -40,6 +40,7 @@ public class TidesController {
         log.info("beginDate={}, endDate={}, station={}", beginDate, endDate, station);
         String result = tidesQueryService.getJSON(beginDate, endDate, station);
         return ResponseEntity.ok().body(result);
+
     }
 
 }
