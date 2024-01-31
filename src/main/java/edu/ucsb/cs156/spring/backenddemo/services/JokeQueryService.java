@@ -35,14 +35,11 @@ public class JokeQueryService {
     public String getJSON(String category, int numJokes) throws HttpClientErrorException {
         String numJokeString = String.valueOf(numJokes);
         log.info("category={}, numJokes={}", category, numJokeString);
-
         HttpHeaders headers = new HttpHeaders();
         headers.setAccept(List.of(MediaType.APPLICATION_JSON));
         headers.setContentType(MediaType.APPLICATION_JSON);
-
         HttpEntity<String> entity = new HttpEntity<>(headers);
         Map<String, String> uriVariables = Map.of("category", category, "numJokes", numJokeString);
-
         ResponseEntity<String> re = restTemplate.exchange(ENDPOINT, HttpMethod.GET, entity, String.class,
                 uriVariables);
         return re.getBody();
