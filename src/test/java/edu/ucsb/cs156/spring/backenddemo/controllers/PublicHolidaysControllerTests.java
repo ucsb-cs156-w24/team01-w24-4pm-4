@@ -44,7 +44,7 @@ public class PublicHolidaysControllerTests {
     String fakeJsonResult="{ \"fake\" : \"result\" }";
     String countryCode = "US";
     String year = "2012";
-    when(mockPublicHolidayQueryService.getJSON(eq(countryCode),eq(year))).thenReturn(fakeJsonResult);
+    when(mockPublicHolidayQueryService.getJSON(eq(year),eq(countryCode))).thenReturn(fakeJsonResult);
 
     String url = String.format("/api/publicholidays/get?countryCode=%s&year=%s",countryCode,year);
 
