@@ -2,7 +2,7 @@
 
 Lab instructions: <https://ucsb-cs156.github.io/w24/lab/team01.html>
 
-```
+
 |   Name          | GitHub Id     |  Service                    | Controller                |
 |-----------------|---------------|-----------------------------|---------------------------|
 |Rohan Morangoly  |rmarangoly     | `LocationQueryService`      | `LocationController`      |
@@ -11,7 +11,7 @@ Lab instructions: <https://ucsb-cs156.github.io/w24/lab/team01.html>
 |Justin Zhang     |JustinZhang809 | `UniversityQueryService`    | `UniversityController`    |
 |Kole Kikuta      |ktkikuta       | `ZipCodeQueryService`       | `ZipCodeController`       |
 |Hao Yi           |hyi96          | `JokeQueryService`          | `JokeQueryController`     |
-```
+
 
 Repo: (https://github.com/ucsb-cs156-w24/team01-w24-4pm-4.git)
 
